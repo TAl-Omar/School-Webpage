@@ -1,6 +1,6 @@
 
-var Username = 'Welcome to ESP, this site uses cookies'
-alert('Welcome to ESP')
+var UserName = 'Welcome to ESP'
+alert(UserName)
 
 
 var UserCity = prompt('please enter your city, Irbid or Amman')
