@@ -1,0 +1,51 @@
+body {
+  background-color: #f9f9f9;
+  font-family: Arial, helvetica, sans-serif;
+}
+
+/* HEADER */
+
+header {
+  background-color: grey;
+  height: 250px;
+
+}
+
+
+
+#school-logo {
+  margin: 50px 700px 100px 0;
+}
+
+
+#navigation {
+  background-color: none;
+  margin: 50px 0 0 0px;
+}
+
+
+.column {
+  float: right;
+}
+
+
+/* MAIN */
+
+#school-building {
+  margin: 50px 0 50px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
