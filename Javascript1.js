@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /*space*/
+=======
+>>>>>>> 8116ac19838b4a54512354bfd6413e5ce57ee3a5
 var UserName = 'Welcome to ESP'
 alert(UserName)
 
@@ -14,6 +17,7 @@ else if(UserCity == 'Amman' || UserCity == 'amman'){
 }
 
 
+<<<<<<< HEAD
 /* funtion */
  function askUser(pLanguage) {
    var ask = prompt('Do you live in ' + pLanguage + '?');
@@ -27,6 +31,9 @@ else if(UserCity == 'Amman' || UserCity == 'amman'){
 
 
 /*space*/
+=======
+
+>>>>>>> 8116ac19838b4a54512354bfd6413e5ce57ee3a5
 var Name = prompt('please enter whether your Parent or a Student')
 alert('Welcome ' + Name); 
 
@@ -52,7 +59,11 @@ console.log(UserCity);
 /*space*/
 
 var pens= prompt('How many pens do you need?')
+<<<<<<< HEAD
 for(let i= 0; i < pens; i++) {
+=======
+for(let i= 0; i <= pens; i++) {
+>>>>>>> 8116ac19838b4a54512354bfd6413e5ce57ee3a5
  let image= '<img src="parentmeme.png" alt="meme" height= 180 width= auto>'
  document.write(image)
 }
